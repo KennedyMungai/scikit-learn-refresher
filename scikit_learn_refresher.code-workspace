@@ -9,6 +9,7 @@
 			"boxplot",
 			"darkgrid",
 			"distplot",
+			"dtype",
 			"dtypes",
 			"figsize",
 			"fillna",
