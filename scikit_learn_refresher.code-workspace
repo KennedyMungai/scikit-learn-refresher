@@ -13,6 +13,8 @@
 			"iloc",
 			"kdeplot",
 			"pclass",
+			"qcut",
+			"retbins",
 			"Scikit",
 			"xlabel",
 			"xticks",
