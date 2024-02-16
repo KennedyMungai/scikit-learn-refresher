@@ -9,6 +9,7 @@
 			"darkgrid",
 			"figsize",
 			"fillna",
+			"iloc",
 			"kdeplot",
 			"pclass",
 			"Scikit",
