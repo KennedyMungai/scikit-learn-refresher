@@ -11,7 +11,9 @@
 			"fillna",
 			"kdeplot",
 			"pclass",
-			"Scikit"
+			"Scikit",
+			"xlabel",
+			"ylabel"
 		]
 	}
 }
