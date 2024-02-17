@@ -10,6 +10,7 @@
 			"boxplot",
 			"cmap",
 			"darkgrid",
+			"dendogram",
 			"distplot",
 			"dtype",
 			"dtypes",
