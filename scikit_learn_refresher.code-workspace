@@ -23,6 +23,7 @@
 			"prefit",
 			"qcut",
 			"quantile",
+			"regplot",
 			"retbins",
 			"Scikit",
 			"winequality",
