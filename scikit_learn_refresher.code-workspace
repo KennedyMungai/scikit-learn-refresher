@@ -27,9 +27,11 @@
 			"regplot",
 			"retbins",
 			"Scikit",
+			"textcoords",
 			"winequality",
 			"xlabel",
 			"xticks",
+			"xytext",
 			"ylabel"
 		]
 	}
