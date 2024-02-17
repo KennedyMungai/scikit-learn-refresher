@@ -15,6 +15,7 @@
 			"fillna",
 			"iloc",
 			"kdeplot",
+			"multiclass",
 			"multioutput",
 			"pclass",
 			"prefit",
