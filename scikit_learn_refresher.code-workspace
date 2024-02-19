@@ -22,6 +22,7 @@
 			"figsize",
 			"fillna",
 			"iloc",
+			"imshow",
 			"kdeplot",
 			"kmeans",
 			"multiclass",
