@@ -37,6 +37,8 @@
 			"Scikit",
 			"stopwords",
 			"textcoords",
+			"TFIDF",
+			"vectorizer",
 			"winequality",
 			"wordcloud",
 			"xlabel",
