@@ -38,6 +38,7 @@
 			"stopwords",
 			"textcoords",
 			"TFIDF",
+			"toarray",
 			"vectorizer",
 			"winequality",
 			"wordcloud",
