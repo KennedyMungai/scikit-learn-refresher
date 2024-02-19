@@ -29,6 +29,7 @@
 			"multiclass",
 			"Multinomial",
 			"multioutput",
+			"openml",
 			"pclass",
 			"prefit",
 			"qcut",
